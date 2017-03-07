@@ -27,11 +27,20 @@ The first realization about Peercoin that made me value its price higher than th
 
 Peercoin supply comes from both minting (PoS) and mining (PoW). Currently the total supply of Peercoin is at around 23,928,884 Peercoins. The supply of new Peercoins comes from Proof-of-Work and Proof-of-Stake at roughly 2.5% and 1% of total current supply per block. Combined with 0.01 PPC/kb being destroyed for each transaction we can estimate the future supply of PPC as:
 
-**{}
+```
 Current supply * ([1% PoS inflation] + [2.5% PoW inflation]) - transaction fees destroyed = next years supply
+
 24M + 0.01*24M + 0.025*24M - fees_destroyed = Supply after a year 
-**
+```
 The 2.5% PoW Block Reward is Inversely Proportional to the PoW Difficulty. As Difficulty goes up, reward goes down. With everything going on in BTC I believe more miners are going to turn their ASICS towards PPC. This will only further decrease the coin supply, and if enough transactions are made, even decrease the total current supply of PPC. 
 
 #### Network decentralization
 Originally I fell in love with Peercoin because I felt guilty over the incredible amount of energy the Bitcoin miners spent on securing the network, and PPC had the potential to be a greener alternative. But lately I have come to value the economic incentives that PoS minting gives. Despite the value of PPC dropping drastically for several years, and interest among users plummeting to a record low, the network stayed strong and very decentralized. This is likely due to the fact that turning your wallet on, acting as a full node earns you more Peercoins. And in return, you secure the network. As we have seen with the other cryptocurrencies, centralizing network security in China can lead to a project getting torn apart by conflicting interests between users and miners. 
+
+
+#### PeerAssets
+https://medium.com/@Nagalim/the-benefits-of-peerassets-77bad7693925#.tkynyn752
+
+#### TODO
+* Decentralization of network and PoS incentives
+* Developer activity and new projects coming up
