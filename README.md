@@ -16,4 +16,4 @@ One of the first dealbreakers I look for when evaluating if a coin has potential
 My primary reason for buying and holding altcoins is that I believe they are coming up with new innovations that holds potential value. Back when I bought my first Litecoins it was because I thought it had potential being used more for daily transactions than Bitcoin. Although the price hasn't been what I had hoped, in recent times I have found myself using Litecoin more and more for transferring value between exchanges. When I bought my first Peercoins it was because I thought the idea of its [Proof of Stake](https://en.bitcoin.it/wiki/Proof_of_Stake) protocol had potential. I didn't understand the ramifications for POS very well back then, but since the coin hadn't been hacked like the DAO, or dumped, I thought it wise to buy a small sum and add it to my portfolio like I'd learned from reading [The intelligent asset allocator](http://a.co/70z1zsM
 ).
 
-#### 2017 and the great fee-war
+#### Bitcoins transaction fee-war aka clusterfuck 2017
